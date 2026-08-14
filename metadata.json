@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Safeer Mengal - Speech & Language Clinic",
+  "description": "Trustworthy, premium healthcare clinic for Speech & Language Therapy in Mansehra, KPK led by Dr. Safeer Mengal (BS SLP).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
